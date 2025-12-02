@@ -6,27 +6,27 @@
 
 <h3>Frontend</h3>
 <div>
-  <img src="https://img.shields.io/badge/-html5-black?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-css3-black?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-html5-black?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/-css3-black?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/-bootstrap-black?style=for-the-badge&logo=bootstrap" />
 </div>
 
 <h3>Backend</h3>
 <div>
-  <img src="https://img.shields.io/badge/-java-black?style=for-the-badge&logo=Java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-spring-black?style=for-the-badge&logo=Spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/-java-black?style=for-the-badge&logo=Java" />
+  <img src="https://img.shields.io/badge/-spring-black?style=for-the-badge&logo=Spring" />
 </div>
 
 <h3>Database</h3>
 <div>
-  <img src="https://img.shields.io/badge/-mysql-black?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-mysql-black?style=for-the-badge&logo=mysql" />
 </div>
 
 <h3>Tool</h3>
 <div>
-  <img src="https://img.shields.io/badge/-eclipse-black?style=for-the-badge&logo=EclipseIde&logoColor=white" />
-  <img src="https://img.shields.io/badge/-gradle-black?style=for-the-badge&logo=Gradle&logoColor=white" />
-  <img src="https://img.shields.io/badge/-git-black?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img-shields.io/badge/-github-black?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-eclipse-black?style=for-the-badge&logo=EclipseIde" />
+  <img src="https://img.shields.io/badge/-gradle-black?style=for-the-badge&logo=Gradle" />
+  <img src="https://img.shields.io/badge/-git-black?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github" />
 </div>
