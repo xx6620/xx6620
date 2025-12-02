@@ -26,6 +26,7 @@
 <h3>Tool</h3>
 <div>
   <img src="https://skillicons.dev/icons?i=eclipse" />
+  <img src="https://skillicons.dev/icons?i=gradle" />
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
 </div>
