@@ -6,27 +6,27 @@
 
 <h3>Frontend</h3>
 <div>
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" />
+  <img src="https://img.shields.io/badge/-html5-black?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-css3-black?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
 
 <h3>Backend</h3>
 <div>
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=spring" />
+  <img src="https://img.shields.io/badge/-java-black?style=for-the-badge&logo=Java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-spring-black?style=for-the-badge&logo=Spring&logoColor=white" />
 </div>
 
 <h3>Database</h3>
 <div>
-  <img src="https://skillicons.dev/icons?i=mysql"/>
+  <img src="https://img.shields.io/badge/-mysql-black?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
 <h3>Tool</h3>
 <div>
-  <img src="https://skillicons.dev/icons?i=eclipse" />
-  <img src="https://skillicons.dev/icons?i=gradle" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://img.shields.io/badge/-eclipse-black?style=for-the-badge&logo=EclipseIde&logoColor=white" />
+  <img src="https://img.shields.io/badge/-gradle-black?style=for-the-badge&logo=Gradle&logoColor=white" />
+  <img src="https://img.shields.io/badge/-git-black?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img-shields.io/badge/-github-black?style=for-the-badge&logo=github&logoColor=white" />
 </div>
